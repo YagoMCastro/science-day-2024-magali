@@ -67,6 +67,24 @@ meh meh.
 
 ===============================================================================
 
+<!-- .slide: class="slide-title" data-background-opacity="1" data-background-image="assets/readme-banner.svg" data-background-color="#000000" data-background-size="contain" -->
+
+
+===============================================================================
+<!-- .slide: data-background-size="contain" data-background-opacity="0.3" data-background-color="#262626" -->
+
+<div class="r-stretch centered">
+<div>
+
+# Project goals
+- Magnetic Microscopy Forward Modeling and Inversion;
+- Automatic Magnetic Moment Determination;
+- Foundation for New Methodologies;
+- Provide Tools for Synthetic Data Simulation.
+
+</div>
+
+===============================================================================
 <div class="r-stretch">
 
 # Some facts
