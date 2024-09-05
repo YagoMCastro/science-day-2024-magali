@@ -6,7 +6,7 @@ The reveal.js configuration can be found in index.html
 -->
 
 
-<!-- .slide: class="slide-title" data-background-opacity="0.6" data-background-image="assets/magali-logo.svg" data-background-color="#000000" data-background-size="contain" -->
+<!-- .slide: class="slide-title" data-background-opacity="0.3" data-background-image="assets/magali-logo.svg" data-background-color="#000000" data-background-size="contain" -->
 
 <!-- Place the content at the bottom of the slide -->
 <div class="r-stretch">
@@ -41,8 +41,8 @@ Feel free to screenshot/share/reuse this presentation
 <div class="talk-logos-container">
 <div class="talk-logos">
   <a href="https://www.compgeolab.org"><img src="assets/compgeolab-banner-light.svg" alt="Computer-Oriented Geoscience Lab"></a>
-  <a href="https://www.iag.usp.br/"><img src="assets/iag.png" alt="Instituto de Astronomia, Geofísica e Ciências Atmosféricas"></a>
-  <a href="https://www.usp.br/"><img src="assets/usp.png" alt="Universidade de São Paulo"></a>
+  <!-- <a href="https://www.iag.usp.br/"><img src="assets/iag.png" alt="Instituto de Astronomia, Geofísica e Ciências Atmosféricas"></a>
+  <a href="https://www.usp.br/"><img src="assets/usp.png" alt="Universidade de São Paulo"></a> -->
 </div>
 </div>
 
@@ -51,23 +51,95 @@ Feel free to screenshot/share/reuse this presentation
 
 ===============================================================================
 
-# Heading 1
+# Paleomagnetism
 
-This is a slide with some content.
+<div class="row">
+<div class="col tiny">
 
-## Heading 2
+  <img src="assets/geomag.svg" height=100%>
 
-* Bla bla
-* Bla bla
+</div>
+<div class="col tiny">
 
-### Heading 3
 
-Meh meh meh meh meh meh meh meh meh meh meh meh meh meh meh meh meh meh meh meh
-meh meh.
+
+</div>
+</div>
 
 ===============================================================================
 
-<!-- .slide: class="slide-title" data-background-opacity="1" data-background-image="assets/readme-banner.svg" data-background-color="#000000" data-background-size="contain" -->
+# Paleomagnetism
+
+<div class="row">
+<div class="col tiny">
+
+  <img src="assets/geomag.svg" height=100%>
+
+</div>
+<div class="col tiny">
+
+  <img src="assets/sample.svg" height=65%>
+
+</div>
+</div>
+
+===============================================================================
+
+# Paleomagnetism
+
+<div class="row">
+<div class="col tiny">
+
+  <img src="assets/geomag.svg" height=100%>
+
+</div>
+<div class="col tiny">
+
+  <img src="assets/sample.svg" height=65%>
+
+</div>
+</div>
+
+===============================================================================
+
+# Magnetic Microscopy
+
+<div class="row">
+<div class="col tiny">
+
+  <img src="assets/microscope.svg" width=85% height=65% brightness=10%>
+
+</div>
+<div class="col tiny">
+
+  <img src="assets/microscope-sample.svg" height=65% style="filter: brightness(1.5);">
+
+</div>
+<div class="col tiny">
+
+  <img src="assets/microscope-data.svg" width=95% height=65%%>
+
+</div>
+</div>
+
+===============================================================================
+<!-- .slide: class="slide-title" data-background-opacity="1" data-background-image="assets/geomag.svg" data-background-color="#000000" data-background-size="contain" -->
+
+
+<div class="r-stretch">
+</div>
+<div class="footnote-center dark">
+
+Centered footnote with a dark background on a slide with a background.
+<br>
+Set the size to `contain` to make sure aspect ratios are preserved and the
+background isn't cropped.
+<br>
+It's a good idea to add alt-text to this footnote if the background is
+important.
+
+</div>
+
 
 
 ===============================================================================
@@ -102,6 +174,7 @@ Notice how the `div` above uses `r-stretch` to push this note to the bottom.
 </div>
 
 ===============================================================================
+
 
 <div class="r-stretch centered">
 <div>
