@@ -13,7 +13,9 @@ The reveal.js configuration can be found in index.html
 </div>
 
 <h1 id="talk-title">
+  
   Magali: Modeling and inversion of magnetic microscopy data 🧲🔬
+
 </h1>
 <p id="talk-authors">
   <a id="talk-speaker">Yago M Castro</a>
@@ -53,74 +55,53 @@ Feel free to screenshot/share/reuse this presentation
 
 # Paleomagnetism
 
-<div class="row">
-<div class="col tiny">
+
+===============================================================================
+
+<div class="r-stretch">
 
   <img src="assets/geomag.svg" height=100%>
 
 </div>
-<div class="col tiny">
 
 
 
-</div>
+===============================================================================
+
+<div class="r-stretch">
+
+  <img src="assets/sample.svg" height=100%>
+
 </div>
 
 ===============================================================================
 
-# Paleomagnetism
+<div class="r-stretch">
 
-<div class="row">
-<div class="col tiny">
-
-  <img src="assets/geomag.svg" height=100%>
+  <img src="assets/microscope-sample.svg" height=100%>
 
 </div>
-<div class="col tiny">
 
-  <img src="assets/sample.svg" height=65%>
+<div class="footnote-center">
 
-</div>
-</div>
-
-===============================================================================
-
-# Paleomagnetism
-
-<div class="row">
-<div class="col tiny">
-
-  <img src="assets/geomag.svg" height=100%>
-
-</div>
-<div class="col tiny">
-
-  <img src="assets/arrow.svg" height=65%>
-
-</div>
-</div>
-
-===============================================================================
-
-# Magnetic Microscopy
-
-<div class="row r-stretch">
-<div class="col tiny">
-  <img src="assets/microscope.svg" style="filter: height: 45%">
-</div>
-<div class="col tiny">
-  <img src="assets/microscope-sample.svg"  style="filter: brightness(1.5); height: 45%">
-</div>
-</div>
-<div class="footnote-left">
-
-**Left image**: [Glenn et a. (2017)](https://doi.org/10.1002/2017gc006946)
-<br>
-**Right image**: Souza-Junior (2024)
+Souza-Junior (2024)
 
 </div>
 
 ===============================================================================
+<div class="r-stretch">
+
+  <img src="assets/microscope.svg" height=100%>
+
+</div>
+<div class="footnote-center">
+
+[Glenn et a. (2017)](https://doi.org/10.1002/2017gc006946)
+
+</div>
+
+===============================================================================
+
 
 <!-- .slide: class="slide-title" data-background-opacity="1" data-background-image="assets/microscope-data.svg"  data-background-size="contain" -->
 
@@ -199,7 +180,7 @@ Free and open source
 
 <!-- .slide: data-background-opacity="0.2" data-background-image="assets/magali-logo.png"  data-background-size="contain" data-background-color="#262626" -->
 
-# Why we want to make it?
+# Why do we want to make it?
 
 <div class="fragment text-left">
 
@@ -211,14 +192,15 @@ Free and open source
 - **User friendly** code
 
 </div>
+
 <div class="fragment text-left">
 
-- **All-in one** software
+- **Spatially** determine position of **several grains**
 
 </div>
 <div class="fragment text-left">
 
-- Allow **easy** forward modelling
+- Allow easy creation of **synthetic data**
 
 </div>
 <div class="fragment text-left">
@@ -228,7 +210,7 @@ Free and open source
 </div>
 <div class="fragment text-left">
 
-- Leverage the potential of emerging **magnetic microscopy** studies. 
+- Leverage the potential of emerging **magnetic microscopy** studies
 
 </div>
 
