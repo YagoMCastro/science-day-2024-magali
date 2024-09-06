@@ -14,7 +14,7 @@ The reveal.js configuration can be found in index.html
 
 <h1 id="talk-title">
   
-  Magali: Modeling and inversion of magnetic microscopy data 🧲🔬
+  Magali: Modelling and inversion of magnetic microscopy data 🧲🔬
 
 </h1>
 <p id="talk-authors">
@@ -58,11 +58,9 @@ Feel free to screenshot/share/reuse this presentation
 
 ===============================================================================
 
-<div class="r-stretch">
 
-  <img src="assets/geomag.svg" height=100%>
+  <img src="assets/geomag.svg" style="width: 50%" >
 
-</div>
 
 
 
@@ -116,21 +114,21 @@ Souza-Junior (2024)
 
 ===============================================================================
 
-# Problems
+# Needs
 <div class="fragment">
 
-- No open software for forward **modeling** and **inversion** techniques specific to magnetic microscopy 
+- **Open software** for forward **modelling** and **inversion** techniques specific to magnetic microscopy 
 
 </div>
 
 <div class="fragment text-left">
 
-- Lack of **data conventions**  
+- **Data conventions**  
 
 </div>
 <div class="fragment">
 
-- No algorithms for **automatic** detection of magnetic **grains** and its **magnetic moment** determination
+- Algorithms for **automatic detection** of magnetic **grains** and its **magnetic moment** determination
 
 </div>
 
@@ -138,42 +136,40 @@ Souza-Junior (2024)
 
 ===============================================================================
 
-<!-- .slide: data-background-opacity="1" data-background-image="assets/readme-banner.svg"  data-background-size="contain" data-background-color="#262626" -->
+<!-- .slide: data-background-opacity="1" data-background-image="assets/readme-banner.png"  data-background-size="contain" data-background-color="#262626" -->
 
 ===============================================================================
 
 <!-- .slide: data-background-opacity="0.2" data-background-image="assets/magali-logo.png"  data-background-size="contain" data-background-color="#262626" -->
 
+<div class="huge ">
 
-<div class="huge">
+What is Magali?
 
-Python library <i class="fab fa-python"></i>
-
-</div>
-
-===============================================================================
-<!-- .slide: data-background-opacity="0.2" data-background-image="assets/magali-logo.png"  data-background-size="contain" data-background-color="#262626" -->
-
-
-<div class="huge">
-
-Modeling and processing magnetic microscopy data 
-<br>
-<i class="fas fa-magnet"></i> <i class="fas fa-microscope"></i>
-
-</div>
-
-===============================================================================
-<!-- .slide: data-background-opacity="0.2" data-background-image="assets/magali-logo.png"  data-background-size="contain" data-background-color="#262626" -->
-
-
-<div class="huge">
+<div class="large fragment">
 
 Free and open source 
 <br>
 <i class="fab fa-github"></i> <i class="fas fa-lock-open"></i>  <i class="fab fa-osi"></i>
 
 </div>
+
+</div>
+<div class="large fragment">
+
+Python library <i class="fab fa-python"></i>
+
+</div>
+
+<div class="large fragment">
+
+Modelling and processing magnetic microscopy data 
+<br>
+<i class="fas fa-magnet"></i> <i class="fas fa-microscope"></i>
+
+</div>
+
+
 
 ===============================================================================
 
@@ -184,28 +180,29 @@ Free and open source
 
 <div class="fragment text-left">
 
-- **Foundation** for new methods to conduct magnetic microscopy studies 
-
-</div>
-<div class="fragment text-left">
-
-- **User friendly** code
+- Provide code that is **easy to use**
 
 </div>
 
 <div class="fragment text-left">
 
-- **Spatially** determine position of **several grains**
+- Determine the **spatial positions** of **multiple** grains
 
 </div>
 <div class="fragment text-left">
 
-- Allow easy creation of **synthetic data**
+- Facilitate the creation of **synthetic data**
 
 </div>
 <div class="fragment text-left">
 
-- Propose **standard format** for data
+- Propose a standard **data format**
+
+</div>
+
+<div class="fragment text-left">
+
+- Serve as a **foundation** for new methods 
 
 </div>
 <div class="fragment text-left">
@@ -225,13 +222,13 @@ Free and open source
 <i class="fas fa-comments"></i>
 <br>
 Contact:
-<a>yagomcastro@gmail.com</a>
+<a>yagomcastro1@gmail.com</a>
 
 <i class="fab fa-github"></i>
 <br>
 Source code for this presentation:
 <br>
-[github.com/leouieda/talk-template](https://github.com/leouieda/talk-template)
+[github.com/YagoMCastro/science-day-2024-magali](https://github.com/leouieda/talk-template)
 
 <i class="fab fa-creative-commons"></i><i class="fab fa-creative-commons-by"></i>
 <br>
