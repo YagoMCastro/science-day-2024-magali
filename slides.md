@@ -95,7 +95,7 @@ Feel free to screenshot/share/reuse this presentation
 </div>
 <div class="col tiny">
 
-  <img src="assets/sample.svg" height=65%>
+  <img src="assets/arrow.svg" height=65%>
 
 </div>
 </div>
@@ -104,57 +104,164 @@ Feel free to screenshot/share/reuse this presentation
 
 # Magnetic Microscopy
 
-<div class="row">
+<div class="row r-stretch">
 <div class="col tiny">
-
-  <img src="assets/microscope.svg" width=85% height=65% brightness=10%>
-
+  <img src="assets/microscope.svg" style="filter: height: 45%">
 </div>
 <div class="col tiny">
-
-  <img src="assets/microscope-sample.svg" height=65% style="filter: brightness(1.5);">
-
+  <img src="assets/microscope-sample.svg"  style="filter: brightness(1.5); height: 45%">
 </div>
-<div class="col tiny">
-
-  <img src="assets/microscope-data.svg" width=95% height=65%%>
-
 </div>
+<div class="footnote-left">
+
+**Left image**: [Glenn et a. (2017)](https://doi.org/10.1002/2017gc006946)
+<br>
+**Right image**: Souza-Junior (2024)
+
 </div>
 
 ===============================================================================
-<!-- .slide: class="slide-title" data-background-opacity="1" data-background-image="assets/geomag.svg" data-background-color="#000000" data-background-size="contain" -->
 
+<!-- .slide: class="slide-title" data-background-opacity="1" data-background-image="assets/microscope-data.svg"  data-background-size="contain" -->
 
 <div class="r-stretch">
 </div>
-<div class="footnote-center dark">
+<div class="footnote-left">
 
-Centered footnote with a dark background on a slide with a background.
-<br>
-Set the size to `contain` to make sure aspect ratios are preserved and the
-background isn't cropped.
-<br>
-It's a good idea to add alt-text to this footnote if the background is
-important.
+[Araujo et al. (2019)](https://doi.org/10.3390/s19071636)
+
+
+</div>
+
+===============================================================================
+
+# Problems
+<div class="fragment">
+
+- No open software for forward **modeling** and **inversion** techniques specific to magnetic microscopy 
+
+</div>
+
+<div class="fragment text-left">
+
+- Lack of **data conventions**  
+
+</div>
+<div class="fragment">
+
+- No algorithms for **automatic** detection of magnetic **grains** and its **magnetic moment** determination
 
 </div>
 
 
 
 ===============================================================================
-<!-- .slide: data-background-size="contain" data-background-opacity="0.3" data-background-color="#262626" -->
+
+<!-- .slide: data-background-opacity="1" data-background-image="assets/readme-banner.svg"  data-background-size="contain" data-background-color="#262626" -->
+
+===============================================================================
+
+<!-- .slide: data-background-opacity="0.2" data-background-image="assets/magali-logo.png"  data-background-size="contain" data-background-color="#262626" -->
+
+
+<div class="huge">
+
+Python library <i class="fab fa-python"></i>
+
+</div>
+
+===============================================================================
+<!-- .slide: data-background-opacity="0.2" data-background-image="assets/magali-logo.png"  data-background-size="contain" data-background-color="#262626" -->
+
+
+<div class="huge">
+
+Modeling and processing magnetic microscopy data 
+<br>
+<i class="fas fa-magnet"></i> <i class="fas fa-microscope"></i>
+
+</div>
+
+===============================================================================
+<!-- .slide: data-background-opacity="0.2" data-background-image="assets/magali-logo.png"  data-background-size="contain" data-background-color="#262626" -->
+
+
+<div class="huge">
+
+Free and open source 
+<br>
+<i class="fab fa-github"></i> <i class="fas fa-lock-open"></i>  <i class="fab fa-osi"></i>
+
+</div>
+
+===============================================================================
+
+
+<!-- .slide: data-background-opacity="0.2" data-background-image="assets/magali-logo.png"  data-background-size="contain" data-background-color="#262626" -->
+
+# Why we want to make it?
+
+<div class="fragment text-left">
+
+- **Foundation** for new methods to conduct magnetic microscopy studies 
+
+</div>
+<div class="fragment text-left">
+
+- **User friendly** code
+
+</div>
+<div class="fragment text-left">
+
+- **All-in one** software
+
+</div>
+<div class="fragment text-left">
+
+- Allow **easy** forward modelling
+
+</div>
+<div class="fragment text-left">
+
+- Propose **standard format** for data
+
+</div>
+<div class="fragment text-left">
+
+- Leverage the potential of emerging **magnetic microscopy** studies. 
+
+</div>
+
+===============================================================================
+
+
+<!-- .slide: data-background-opacity="0.2" data-background-image="assets/magali-logo.png"  data-background-size="contain" data-background-color="#262626" -->
 
 <div class="r-stretch centered">
 <div>
 
-# Project goals
-- Magnetic Microscopy Forward Modeling and Inversion;
-- Automatic Magnetic Moment Determination;
-- Foundation for New Methodologies;
-- Provide Tools for Synthetic Data Simulation.
+<i class="fas fa-comments"></i>
+<br>
+Contact:
+<a>yagomcastro@gmail.com</a>
+
+<i class="fab fa-github"></i>
+<br>
+Source code for this presentation:
+<br>
+[github.com/leouieda/talk-template](https://github.com/leouieda/talk-template)
+
+<i class="fab fa-creative-commons"></i><i class="fab fa-creative-commons-by"></i>
+<br>
+Unless otherwise noted,
+the contents of this presentation are
+licensed under the
+<br>
+[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 </div>
+</div>
+
 
 ===============================================================================
 <div class="r-stretch">
@@ -443,7 +550,8 @@ Makes this map 👇
 
 ===============================================================================
 
-<!-- .slide: class="slide-contact" data-background-image="assets/contact-slide.svg" data-background-size="contain" data-background-color="#000000" -->
+
+<!-- .slide: data-background-opacity="0.2" data-background-image="assets/magali-logo.png"  data-background-size="contain" data-background-color="#262626" -->
 
 <div class="r-stretch centered">
 <div>
