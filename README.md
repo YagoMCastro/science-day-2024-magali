@@ -1,15 +1,14 @@
-# Template for my reveal.js based slides
+# Magali
+**Event**: IAG | Science Day 2024
 
-This is a template I use to make [reveal.js](https://revealjs.com/) slides
-for talks and lectures.
-It adds some custom styling and CSS classes for making columns, footnotes,
-and more.
+**Date**: 2024/09/11
 
-**Preview:** https://www.leouieda.com/talk-template
+**Presenter**: Yago Moreira Castro
 
-> The original inspiration is this template by Matthew Turk:
-> https://github.com/matthewturk/mjt-talk-template
+**Preview:** [https://yagomcastro.github.io/tectonica-litosfera-seminario1-msc-2024/](https://yagomcastro.github.io/science-day-2024-magali/)
 
+> A template by Leonardo Uieda was used to create this presentation:
+> https://github.com/leouieda/talk-template
 ## Using
 
 1. Click on the "Use this template" button or go to
